@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Iteso Store</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="technology_title">TECHNOLOGY</string>
+    <string name="home_title">HOME</string>
+    <string name="electronics_title">ELECTRONICS</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mac_title">Mac"</string>
+    <string name="mac_store">BestBuy</string>
+    <string name="mac_location">Zapopan, Jalisco</string>
+    <string name="mac_phone">33 12345678</string>
+    <string name="mac_description">Llevate esta Mac con un 30% de descuento para que puedas programar para XCode y Android sin tener que batallar tanto como en tu Windows</string>
+
+    <string name="alien_title">Alienware</string>
+    <string name="alien_store">BestBuy</string>
+    <string name="alien_location">Zapopan, Jalisco</string>
+    <string name="alien_phone">33 12345678</string>
+    <string name="alien_description">Lorem Ipsum...</string>
+
+    <string name="activity_edit_save">Save</string>
+    <string name="activity_edit_cancel">Cancel</string>
+
+    <string name="activity_edit_name_hint">Name</string>
+    <string name="activity_edit_store_hint">Store</string>
+    <string name="activity_edit_location_hint">Location</string>
+    <string name="activity_edit_phone_hint">Phone</string>
+
+</resources>
